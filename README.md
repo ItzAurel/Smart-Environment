@@ -13,10 +13,8 @@
 --- 
 
 ## 🚀 Pengenalan Projek
-Halo gusy! Smart Environment adalah sebuah prototype berbasis ESP32 yang
-menggunakan berbagai sensor untuk memantau kondisi lingkungan baik di dalam ruangan
-maupun luar ruangan secara **real-time**.
-> Sistem ini dapat memantau
+Halo gusy! Smart Environment adalah sebuah prototype berbasis ESP32 yang menggunakan berbagai sensor untuk memantau kondisi lingkungan baik di dalam ruangan maupun luar ruangan secara **real-time**.
+### Sistem ini dapat memantau ↴
 * Suhu
 * Kelembapan
 * Kualitas Udara
