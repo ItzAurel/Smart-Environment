@@ -11,7 +11,7 @@
 </p>
 
 --- 
-<p></p>
+
 ## 🚀 Pengenalan Projek
 Halo gusy! Smart Environment adalah sebuah prototype berbasis ESP32 yang menggunakan berbagai sensor untuk memantau kondisi lingkungan baik di dalam ruangan maupun luar ruangan secara **real-time**.
 ### Sistem ini dapat memantau ↴
@@ -25,13 +25,13 @@ Halo gusy! Smart Environment adalah sebuah prototype berbasis ESP32 yang menggun
 
 Data sensor akan ditampilkan melalui OLED dan dapat dipantau melalui aplikasi Blynk,
 sementara LED dan buzzer yang akan memberikan peringatan jika beberapa sensor tertentu mendeteksi suatu hal.
-<p></p>
+
 ---
-<p></p>
+
 ### ⚙️ Persyaratan 
 Pastikan Anda sudah terinstal:
 * [Arduino IDE]([https://nodejs.org/](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE) untuk mengunggah kode pemrogramannya. 
-<p></p>
+
 ---
 <h3 align="center">📜 Lisensi</h3>
 <p align="center">Proyek ini menggunakan lisensi GPL-3.0. Kamu bebas edit dan kembangkan lagi kodingannya! (kecuali buat karbit)</p>
